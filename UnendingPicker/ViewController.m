@@ -24,7 +24,7 @@
     column2Titles = [[NSArray alloc]initWithObjects:@"Delivery",@"Fast Food",@"Casual Restaurant",@"Fine Dining", nil];
     selectedRowOfColumn0 = 0;
     selectedRowOfColumn1 = 0;
-    selectedRowOfColumn1 = 0;
+    selectedRowOfColumn2 = 0;
     
 }
 
